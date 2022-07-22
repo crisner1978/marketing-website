@@ -8,6 +8,7 @@ The backend is being powered by Node JS. Express is being used to create the Ser
 MONGODB_URI=your_mongodb_connection_string_goes_here
 ```
 Make sure that you add your password in the spot where you see `<password>`
+
 3) All the routes are located in the `routes.js` file. 
 ```
 const express = require('express')
