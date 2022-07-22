@@ -17,10 +17,9 @@ people to learn about the product and ultimately purchase it
 In both the client & server folders, they each have their own README.md's. Make sure to read both of them before getting started on building your application.
 1) `cd client` and run `npm install`
 2) `cd server` and run `npm install`
-- Once the packages have been installed you can run the server by `cd server` then you can run `npm run dev` to start the server using nodemon.
-- To run the client, `cd client` and the run `npm start` and this will spin up the development server for the React JS application.
-3) The client has been proxied to the backend. You will see in the client `package.json` file `"proxy": "http://localhost:5000/",`
-- This will allow you to call the backend without having to state the domain. For example you can make a 'POST' request to `/api/contact-request`
+3) Once the packages have been installed you can run the server by `cd server` then you can run `npm run dev` to start the server using nodemon.
+4) To run the client, `cd client` and the run `npm start` and this will spin up the development server for the React JS application.
+5) The client has been proxied to the backend. You will see in the client `package.json` file `"proxy": "http://localhost:5000/",`. This will allow you to call the backend without having to state the domain. For example you can make a 'POST' request to `/api/contact-request`
 
 ### Layout Idea
  ![marketing-website](https://user-images.githubusercontent.com/87502003/180458354-ee7fc2fc-1018-4129-a44a-e24ae2c2a1fe.png)
