@@ -14,6 +14,7 @@ that includes a website and landing page dedicated to driving
 people to learn about the product and ultimately purchase it
 
 ### Get Started
+
 In both the client & server folders, they each have their own README.md's. Make sure to read both of them before getting started on building your application.
 - 
 
