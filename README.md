@@ -39,4 +39,4 @@ contact the company if interested in the product. Include a
 “Call to Action” link at the bottom of every page on the website except for the contact page itself that links to the contact page
 
 #### Layout Idea
- ! [Marketing Layout Idea] (./images/marketing-website.png)
+ ![marketing-website](https://user-images.githubusercontent.com/87502003/180458354-ee7fc2fc-1018-4129-a44a-e24ae2c2a1fe.png)
