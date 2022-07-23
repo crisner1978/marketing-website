@@ -18,6 +18,7 @@ In both the client & server folders, they each have their own README.md's. Make 
 1) To get started with building this application, you will need to `git clone https://github.com/crisner1978/marketing-website.git` this repository.
 
 After cloning this repository on your local machine, you can set up the Client and the Server by doing the following:
+
 2) `cd client` and run `npm install`
 3) `cd server` and run `npm install`
 4) Once the packages have been installed you can run the server by `cd server` then you can run `npm run dev` to start the server using nodemon.
