@@ -16,6 +16,7 @@ people to learn about the product and ultimately purchase it
 ### Get Started
 In both the client & server folders, they each have their own README.md's. Make sure to read both of them before getting started on building your application.
 1) To get started with building this application, you will need to `git clone https://github.com/crisner1978/marketing-website.git` this repository.
+
 After cloning this repository on your local machine, you can set up the Client and the Server by doing the following:
 2) `cd client` and run `npm install`
 3) `cd server` and run `npm install`
